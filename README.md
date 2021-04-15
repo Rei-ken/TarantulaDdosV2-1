@@ -7,6 +7,7 @@ Not2:Test amaçlı yazılmış olup, tüm sorumluluk kullanıcıya aittir.
 
 Not3: "Python 3.9" ile android(Termux) İşletim sisteminde , "Python3.8"  ile Windows işletim sisteminde denenmiş başarılı sonuç alınmıştır.
 
+![20210415_114322](https://user-images.githubusercontent.com/65914978/114840788-d31b9480-9ddf-11eb-90f6-8dc9b4bda969.jpg)
 
 
 # Kurulum & Kullanım:
